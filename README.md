@@ -24,6 +24,10 @@ This repository contains multiple features and workflows demonstrating Git opera
   ```sh
   git checkout -b dev
   ```
+![image](https://github.com/user-attachments/assets/7e3f33d1-86e3-40b6-a9a6-e1d2d76f976f)
+![image](https://github.com/user-attachments/assets/da1c9b7c-34bc-4dfc-adf9-6beca9537929)
+![image](https://github.com/user-attachments/assets/2cd8f61b-3bbf-473d-998a-5058e53760d7)
+
 
 #### **2. Add Initial Code to `dev` Branch**
 - Commit and push changes:
@@ -94,6 +98,7 @@ Modify the `divide` function:
 ## Q.2: Git LFS for Large Binary Files
 
 ### **Workflow Steps**
+![image](https://github.com/user-attachments/assets/33b19677-15e1-4388-86eb-9a62fefd1333)
 
 #### **1. Create `lfs` Branch and Configure Git LFS**
 ```sh
@@ -122,6 +127,9 @@ Modify the `divide` function:
 ---
 
 ## Q.3: Geometry Calculator with Git Stash
+![image](https://github.com/user-attachments/assets/9b37b39d-11fe-4051-ab27-3702a0f34c64)
+![image](https://github.com/user-attachments/assets/b1c87df6-1401-486a-92d4-f397341ce599)
+
 
 ### **Workflow Steps**
 
