@@ -27,6 +27,7 @@ if __name__ == "__main__":
     print(f"{num1} - {num2} = {calculator.subtract(num1, num2)}") 
     print(f"{num1} * {num2} = {calculator.multiply(num1, num2)}")
     print(f"{num1} / {num2} = {calculator.divide(num1, num2)}")
+    
     # TODO: Uncomment and test the square root feature.
     num3 = 25
     print(f"The square root of {num3} = {calculator.square_root(num3)}")
